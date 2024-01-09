@@ -1,0 +1,260 @@
+{
+   "checksum": "4d46f18d28882536760e343b27242d92",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13306957391228780",
+            "date_last_used": "13348677634677578",
+            "guid": "86b31d69-240f-4563-bcb0-94e26cac234d",
+            "id": "15",
+            "name": "harshtiwari0627 (Harsh Tiwari)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/harshtiwari0627"
+         }, {
+            "date_added": "13313145161183279",
+            "date_last_used": "13349017367939651",
+            "guid": "55e0ba3f-01ee-4eee-88e3-56c9397bd58d",
+            "id": "16",
+            "name": "(6) Harsh Tiwari | LinkedIn",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.linkedin.com/in/harsh-tiwari-a65406179/"
+         }, {
+            "date_added": "13348052893165266",
+            "date_last_used": "0",
+            "guid": "614501bb-5702-4a11-a747-489c6eb65d8d",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "HK_Application/lib at main · VarunSoni01/HK_Application",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/VarunSoni01/HK_Application/tree/main/lib"
+         }, {
+            "date_added": "13321902342445630",
+            "date_last_used": "13343751679157726",
+            "guid": "bad582b8-34be-4b7f-bfa0-569d595bf9cc",
+            "id": "18",
+            "name": "Firebase console",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://console.firebase.google.com/u/0/?pli=1"
+         }, {
+            "date_added": "13348755556158890",
+            "date_last_used": "0",
+            "guid": "00db110f-23e7-475a-8a87-d91a35d6f5bf",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Blind 75 Leetcode problems : Detailed Video Solutions",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://takeuforward.org/interviews/blind-75-leetcode-problems-detailed-video-solutions/"
+         }, {
+            "date_added": "13334778905260422",
+            "date_last_used": "0",
+            "guid": "7a020567-e2d8-4d2a-ad13-144484c23f3d",
+            "id": "20",
+            "name": "Problems - LeetCode",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://leetcode.com/problemset/all/"
+         }, {
+            "date_added": "13335077804894952",
+            "date_last_used": "13349011876117437",
+            "guid": "9893c2f1-0f45-4622-a3f7-360ecd26d4a4",
+            "id": "21",
+            "name": "Dashboard | POD",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://piemr.pod.ai/d/zgLZCC/"
+         }, {
+            "date_added": "13348999520085141",
+            "date_last_used": "0",
+            "guid": "39649d7c-2f8f-4436-8853-e9fed7d54cf0",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         }, {
+            "date_added": "13338219225355675",
+            "date_last_used": "0",
+            "guid": "547cd030-f6e9-456b-a0ba-d156314ddb84",
+            "id": "23",
+            "name": "Data Structures Tutorials - Quick Sort Algorithm with an example",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.btechsmartclass.com/data_structures/quick-sort.html"
+         }, {
+            "date_added": "13341519702755443",
+            "date_last_used": "0",
+            "guid": "0249d3d1-728b-4aa3-9fba-d7032607cf94",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "API categories - Free APIs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://free-apis.github.io/#/categories"
+         }, {
+            "date_added": "13342257601274853",
+            "date_last_used": "13348054315416442",
+            "guid": "fdf6b50a-3a57-422c-b762-522301199ddc",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NeoColab",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://neocolab212.examly.io/mycourses/details?id=b1d251b8-3a02-45e1-a137-69dfe8f38f59&type=mylabs"
+         }, {
+            "date_added": "13348221070445190",
+            "date_last_used": "0",
+            "guid": "dd6297e2-2f30-4c74-b0ae-7f4fdfee8884",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AccSoft 2.0",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://150.129.144.226/Accsoft_PIEMR/StudentLogin.aspx"
+         }, {
+            "date_added": "13348239639111578",
+            "date_last_used": "0",
+            "guid": "1e6adb0a-059b-4590-9469-4f64f9b95061",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Upload images to REST API with Flutter using http | by Kashif Chandio | Medium",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://kashifchandio.medium.com/upload-images-to-a-rest-api-with-flutter-using-http-61713964e1c"
+         }, {
+            "date_added": "13348239827417779",
+            "date_last_used": "0",
+            "guid": "bb4ec85f-c069-4868-a44c-76a6f14828e8",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Uploading a File to a Server from Flutter Using a Multi-Part (form-data) POST Request - DEV Community",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dev.to/carminezacc/advanced-flutter-networking-part-1-uploading-a-file-to-a-rest-api-from-flutter-using-a-multi-part-form-data-post-request-2ekm"
+         }, {
+            "date_added": "13348870169637616",
+            "date_last_used": "0",
+            "guid": "64a70a26-3953-441c-9d20-c4938a3b6211",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Teachable Machine",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://teachablemachine.withgoogle.com/train"
+         }, {
+            "date_added": "13349011657005437",
+            "date_last_used": "0",
+            "guid": "f6754d3c-bf9e-4a1b-b423-e4cd66ce2b5c",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Collections in Java - GeeksforGeeks",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/collections-in-java-2/"
+         }, {
+            "date_added": "13349014391537212",
+            "date_last_used": "0",
+            "guid": "f59553ea-4f47-4d53-a68e-28b2ff4605f6",
+            "id": "9",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/"
+         }, {
+            "date_added": "13349014391537135",
+            "date_last_used": "0",
+            "guid": "f336c3b8-a33d-43b4-b0a7-4e903a59eccb",
+            "id": "8",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.lenovo.com/"
+         }, {
+            "date_added": "13349014391536656",
+            "date_last_used": "0",
+            "guid": "f4c92b38-24fd-4154-8fff-e732a84932f4",
+            "id": "7",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html"
+         } ],
+         "date_added": "13349014391417728",
+         "date_last_used": "0",
+         "date_modified": "13349018494386806",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13349014391417730",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13349014391417730",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCArmud6MAQAAEgAgASoYS05LY3NVUTdJR25kYXdac091RzBDUT09oAYHErABCB4SqwEKHHFyb2hGRlh5RUIzVVBzZDJFR1FIc0JzZzkzaz0SJGY2NzU0ZDNjLWJmOWUtNGExYi1iNDIzLWU0Y2Q2NmNlMmI1YxgAIAAoADCck+z0zTE4gvOK880xQILzivPNMUocWG9DNXB0d2hjbXVSTDYyUWY0d1lkZytTdlVJPVonIiX/////AAAABrhaUDNwWk0yQ3BhYVM0b215OW9RSWt4YnBJYnM9ZfglxwgSrwEIHRKqAQocdE42akE1aFBGbjhyZFFLVG1ZSXRMeTVTdEVnPRIkNjRhNzBhMjYtMzk1My00NDFjLTlkMjAtYzQ5MzhhM2I2MjExGAAgACgAMJiT7PTNMTjbjM+vzTFA24zPr80xShxXN3hTY2hSNEVwRGtpMXlkNmJQRXh5b0tPZVU9WiYiJP////8AAAAGcXhGOUhsM1lzWkpQc2hlSVlYNmdaSDVJRFI0PWU4BQefErABCBkSqwEKHHJiSDdqU2NRMURZSFgzeTJvMjlGblJKbEJoaz0SJGZkZjZiNTBhLTNhNTctNDIyYy1iNzYyLTUyMjMwMTE5OWRkYxgAIAAoADCak+z0zTE4i8vB3rQxQIvLwd60MUocWW5NNWw1aTNHdFRXMHVLRnZlcXVRb1dUanlRPVonIiX/////AAAABf1lZVFrek02c0JKVFc3b0RNU0FWTzRicTBCVTQ9ZSuRUacSsAEIGBKrAQocd0ZJcm1XTytwOHdoYWcvWW5waEdVdXFCUFZJPRIkMDI0OWQzZDEtNzI4Yi00YWEzLTlmYmEtZDcwMzI2MDdjZjk0GAAgACgAMJeT7PTNMTiGu9P+sTFAhrvT/rExShxCelV0L25mTHUvejJneXJPRG4wV0phbzN3bzg9WiciJf////8AAAAF93FVNDZlaXpkUWRmVUEzT2t0UVBFaUpUTUc4OD1lf8a8KRKvAQgXEqoBChxGQjE5TXo0OEZXY3dPMWM5Um1xTWlCTlpRZnc9EiQ1NDdjZDAzMC1mNmU5LTQ1NmItYTBiYS1kMTU2MzE0ZGRiODQYACAAKAAwmZPs9M0xOIyA7dilMUCMgO3YpTFKHEpCVUJ0T0VQVjNOV0FUYzJ5Q2FObmpMVWM2az1aJiIk/////wAAAAVZNE42eFJIemRtazNNWjBXeUdmQ1lUMWFhZTA9ZW1yTloSrwEIHBKqAQocbWJhYU5NNEZNcEFWQit3ejl1Z3czekFGVjZzPRIkYmI0ZWM4NWYtYzA2OS00ODY4LWE0NGMtNzZhNmYxNDgyOGU4GAAgACgAMJaT7PTNMTi6iYaDyzFAuomGg8sxShxMNW9nU1oySkhtbGpPSGdFV3dTWitkTlNmbDQ9WiYiJP////8AAAAGblVUeTZPVkMrVTk3YWErdDlEeVBnek1zU1dNPWUzxnP3ErABCBYSqwEKHDhnVllaK3NjcS9GVVIyZS93VVFqOE5OOTY3QT0SJDM5NjQ5ZDdjLTJmOGYtNDQzNi04ODUzLWU5ZmVkN2Q1NGNmMBgAIAAoADCTk+z0zTE4ht+o7c0xQIbfqO3NMUocbnArd3Y0THZvTU5kaEhQMGxYRTE3THdxenhjPVonIiX/////AAAABOxQcTBJTkFJT0IxdURLVnJvaU92SWpVeXlmRjg9ZWkbIvMSqQEIExKkAQocMU1NTC9ycE1yOUVPSWFndnpXZFNLWmRGT1M0PRIkMDBkYjExMGYtMjNlNy00NzVhLThhODctZDkxYTM1ZDZmNWJmGAAgACgAMJGT7PTNMTi01fv4zDFAtNX7+MwxShxqSitmeVF2aThvTzM2UnZUOU5JNWluNUJzam89WiAiHv/dQ0ZFN3dhYXA4c1V6QVZ3SGlMdEdadVYvTHdRPWWzUP9AEqkBCBISpAEKHENvR0U1RDkyUGxNbEhSNFIrbWJvTEdjanplZz0SJGJhZDU4MmI4LTM0YmUtNGI3Zi1iZmEwLTU2OWQ1OTViZjljYxgAIAAoADCSk+z0zTE4nsat9OgwQJ7GrfToMEocb0NNVmZUamhSelIrK0loSXVEdlFFdC9lcVRrPVogIh7/vFBtRTR3Qjk3TVlxYVRTVG9NQk9aS2lLbTlxOD1lvOt3RxKwAQgaEqsBChw1NHVhNHdUdHhWbitLc0g0Z0NhbnBjMFFaS0k9EiRkZDYyOTdlMi0yZjMwLTRjNzQtYjBhZS03ZjRmZGZlZTg4ODQYACAAKAAwkJPs9M0xOKqujfrKMUCqro36yjFKHEVJVkhSQVp3dXhkeVkrM0FjSW85ZkQvMFk1WT1aJyIl/////wAAAAX+ZkM4andzNVVHaTdkYXhsVFo0UHg2aDR2aGEwPWVKjdgYEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGZjNmQwNmE3LTQyMWQtNTU1My05MmViLTMzYjMyYTY2YTdlZRgAIAAoADDwnq6dsTA4rpyB8OUvQK6cgfDlL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASsAEIFBKrAQocR0tTNXdIbnRscngwME1UcHFac3pEZXpCajU4PRIkN2EwMjA1NjctZTJkOC00ZDJhLWFkMTMtMTQ0NDg0YzIzZjNkGAAgACgAMJWT7PTNMTjn27DwmDFA59uw8JgxShxMWmNvREdxT1UrbXpDb2JJeUJ6L0tLVVh6cTg9WiciJf////8AAAAEtVJsVmx6K3pRaGlwQmh0bWJqUUhkdFRqblpCaz1lpic92xKpAQgREqQBChwybXRndGIrSTJPV0QzN2tkWXU2Vmd2SG40MU09EiQ2MTQ1MDFiYi01NzAyLTRhMTEtYTc0Ny00ODljNmViNjVkOGQYACAAKAAwlJPs9M0xOJDH9KnKMUCQx/SpyjFKHEFoeWZwN1drNThqVkxGemo3N0dYYnVxcHlGQT1aICIe/6s5dWdKeGRBTStVUE15QnNncUNwTVpOakhJRkk9ZZNUQ8ISqAEIDxKjAQocR0FQQmMwbU96Uy9ZQytoOUg1WlZVckRZekpNPRIkODZiMzFkNjktMjQwZi00NTYzLWJjYjAtOTRlMjZjYWMyMzRkGAAgACgAMJuT7PTNMTi7jIaesTBAu4yGnrEwShxBRzl0TWsyVnVNaWx2M1hmS0E5SDc2VlNMdmc9Wh8iHbxFZnJ5ZG93QWRaTDdmZXV5RnJIa1M3VjZJYmM9ZcClKLoSsAEIFRKrAQocN0R1RmswRHRrcXFGb0kydHI1Q0hoOTNQT0JBPRIkOTg5M2MyZjEtMGY0NS00NjIyLWEzZjctMzYwZWNkMjZkNGE0GAAgACgAMI+T7PTNMTi/+vP+mTFAv/rz/pkxShxYdWw3VTg5c3dyZlFlVStiR3BYejNnVHlMeEk9WiciJf////8AAAAE2nFiRkQySzloQkFVaUtFdmRsSExXd1IyTVhhST1lcF9LwhKvAQgbEqoBChwzR1Jmdk1McVArc3lPY2dhYUhBWmlwOXdsQ2s9EiQxZTZhZGIwYS0wNTliLTQ1OTAtOTQ2OS00ZjY0ZjliOTUwNjEYACAAKAAwjZPs9M0xOI3M+oLLMUCNzPqCyzFKHG1mU2cxTWxqUUVQOEIzcXpvemVvOUFxQjJuRT1aJiIk/////wAAAAYzQWFSNUZEcG1TR3RaTjgxVjg5d0ZWUEVzMFE9ZYLOQFISiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkYTg2MmFhNWMtNWI1MC01OGUyLTkwYTYtMTg3MWY2YmQxOGY5GAAgACgAMPCerp2xMDiCm4Hw5S9AgpuB8OUvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKpAQgQEqQBChxIVzNUellOcFRwWEQvZTQ3azR0N3J1VXVDWjg9EiQ1NWUwYmEzZi0wMWVlLTRlZWUtODhlMy01NmM5Mzk3YmQ1OGQYACAAKAAwiczn9c0xOMDTzaTIMEDA082kyDBKHGY1L2Z6NEZmZjBIUVpKKy9XSCtXQTh1Q0NwUT1aICIe/6Y2OHhGVHRMdUY4dlRoMlI5L3ZvL0dCWHJSbGM9ZUmjTMsSiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMzJmN2MyNzAtMzhmZS01ZDBkLThkMGMtMDM5ZWM3YzEwYjRmGAAgACgAMPCerp2xMDiioIHw5S9AoqCB8OUvShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADAAOAA=",
+   "version": 1
+}
